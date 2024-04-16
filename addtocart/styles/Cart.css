@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.cartcard{
+  width: 60%;
+  margin: auto;
+  
+}
+.btn{
+  margin: 10px 10px;
+}
